@@ -1,5 +1,3 @@
-Here’s a **clean, promotion-ready README** you can drop straight into your repo. It positions your work as **intentional, architectural, and progressive** (not just a side project).
-
 ***
 
 # 🧪 MCP Server + Testing Architecture
