@@ -185,31 +185,3 @@ Additional documentation can be found in:
 * `/docs/ADRs/` — architecture decision records
 
 ***
-
-## 🧭 Purpose (Career Development)
-
-This repository is part of a structured effort to:
-
-* Strengthen **technical depth in test architecture**
-* Demonstrate **tooling evaluation and decision-making**
-* Build and showcase **end-to-end quality strategy**
-* Progress toward a **QE Architect role**
-
-***
-
-## 💡 Key Takeaway
-
-This is not just a coding project — it is a **deliberate exercise in architectural thinking**, focusing on:
-
-* Designing for scale
-* Testing beyond happy paths
-* Making and documenting technical decisions
-
-***
-
-***
-
-If you want next step, I can also:
-
-* Generate your **architecture.md + test-strategy.md**
-* Or tailor this README to sound even more like something you'd present in a promotion panel ✅
